@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Personal Blog",
+    "description": "A responsive blog website built using HTML, CSS, and JavaScript.",
+    "image": "blog.jpg",
+    "link": "https://example.com/blog"
+  },
+  {
+    "id": 2,
+    "title": "E-commerce Site",
+    "description": "An online store developed with React.js and Node.js.",
+    "image": "ecommerce.jpg",
+    "link": "https://example.com/ecommerce"
+  },
+  {
+    "id": 3,
+    "title": "Portfolio Website",
+    "description": "A professional portfolio website showcasing my projects and skills.",
+    "image": "portfolio.jpg",
+    "link": "https://example.com/portfolio"
+  },
+  {
+    "id": 4,
+    "title": "Social Media App",
+    "description": "A social media application with user profiles and post sharing features.",
+    "image": "social.jpg",
+    "link": "https://example.com/social"
+  },
+  {
+    "id": 5,
+    "title": "Weather Dashboard",
+    "description": "A weather forecast dashboard using third-party APIs.",
+    "image": "weather.jpg",
+    "link": "https://example.com/weather"
+  },
+  {
+    "id": 6,
+    "title": "Task Manager",
+    "description": "A task management application for organizing daily tasks.",
+    "image": "task.jpg",
+    "link": "https://example.com/task"
+  }
+]
