@@ -13,7 +13,7 @@ const Footer = () => {
       <div class="wave" id="wave3"></div>
       <div class="wave" id="wave4"></div>
     </div>
-    <div className="mt-4 flex justify-center lg:justify-end space-x-9">
+    <div className="mt-4 flex justify-center lg:justify-end  icons">
           <a href='https://www.facebook.com/dario.jakovleski10'><FontAwesomeIcon icon={faFacebookF} className="text-black text-3xl hover:text-white mx-2" /></a>
           <a href=''> <FontAwesomeIcon icon={faTwitter} className="text-black text-3xl hover:text-white mx-2" /></a>
           <a href='https://www.instagram.com/djakovleskiix/'> <FontAwesomeIcon icon={faInstagram} className="text-black text-3xl hover:text-white mx-2" /></a>

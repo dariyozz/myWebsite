@@ -100,7 +100,7 @@ const App = () => {
                 }`}
               >
                 <button
-                  className={`sm:text-xs lg:text-xl font-semibold hover:text-secondary focus:outline-none `}
+                  className={`lg:text-xl font-semibold hover:text-secondary focus:outline-none `}
                   onClick={() => handleNavItemClick("home")}
                 >
                   Home
@@ -112,7 +112,7 @@ const App = () => {
                 }`}
               >
                 <button
-                  className={`sm:text-xs lg:text-xl font-semibold hover:text-secondary focus:outline-none`}
+                  className={`lg:text-xl font-semibold hover:text-secondary focus:outline-none`}
                   onClick={() => handleNavItemClick("about")}
                 >
                   About
@@ -126,7 +126,7 @@ const App = () => {
                 }`}
               >
                 <button
-                  className={`sm:text-xs lg:text-xl font-semibold hover:text-secondary focus:outline-none `}
+                  className={`lg:text-xl font-semibold hover:text-secondary focus:outline-none `}
                   onClick={() => handleNavItemClick("portfolio")}
                 >
                   Portfolio
@@ -140,7 +140,7 @@ const App = () => {
                 }`}
               >
                 <button
-                  className={`sm:text-xs lg:text-xl font-semibold hover:text-secondary focus:outline-none `}
+                  className={`lg:text-xl font-semibold hover:text-secondary focus:outline-none `}
                   onClick={() => handleNavItemClick("contact")}
                 >
                   Contact
